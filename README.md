@@ -5,8 +5,8 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="ressources/lw-blue-banner.png">
 </picture>
 
-- 🏗️ I’m currently working on [get_next_line](https://github.com/late9dev/42_get_next_line)
+<p align="center">🏗️ I’m currently working on <a href=""><code>get_next_line</code></a></p>
 
-- 🌱 I’m currently learning **C Programming**
+<p align="center">🌱 I’m currently learning <a href="">C Programming</a></p>
 
-- 📫 How to reach me **contact@lucaswarlop.com**
+<p align="center">📫 How to reach me <a href="">contact@lucaswarlop.com</a></p>
