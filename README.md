@@ -9,6 +9,4 @@
 
 - 📫 How to reach me **contact@lucaswarlop.com**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=late9dev&show_icons=true&locale=en&layout=compact" alt="late9dev" />
-
 
