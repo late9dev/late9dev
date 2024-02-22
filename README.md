@@ -5,13 +5,13 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="ressources/lw-blue-banner.png">
 </picture>
 
-<p align="center">🎓 Student at <a href="https://42.fr">42 Paris</a></p>
+<p align="center">🎓 Student at <a href="https://42.fr" target="_blank">42 Paris</a></p>
 
-<p align="center">🏗️ I’m currently working on <a href="https://github.com/late9dev/42_get_next_line">get_next_line</a></p>
+<p align="center">🏗️ I’m currently working on <a href="https://github.com/late9dev/42_get_next_line" target="_blank">get_next_line</a></p>
 
-<p align="center">🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C Programming</a></p>
+<p align="center">🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">C Programming</a></p>
 
-<p align="center">📫 How to reach me <a href="mailto:contact@lucaswarlop.com">contact@lucaswarlop.com</a></p>
+<p align="center">📫 How to reach me <a href="mailto:contact@lucaswarlop.com" target="_blank">contact@lucaswarlop.com</a></p>
 
 <div align="center">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-%2300000f.svg?style=flat&logo=gnu-bash&logoColor=black&color=white">
