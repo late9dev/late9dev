@@ -9,7 +9,7 @@
 
 <p align="center">🏗️ I’m currently working on <a href="https://github.com/late9dev/42_get_next_line">get_next_line</a></p>
 
-<p align="center">🌱 I’m currently learning <a href="hhttps://en.wikipedia.org/wiki/C_(langage)">C Programming</a></p>
+<p align="center">🌱 I’m currently learning <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C Programming</a></p>
 
 <p align="center">📫 How to reach me <a href="mailto:contact@lucaswarlop.com">contact@lucaswarlop.com</a></p>
 
