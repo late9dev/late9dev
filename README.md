@@ -9,7 +9,7 @@
 
 <p align="center">🏗️ I’m currently working on <a href="https://dj2v.fr" target="_blank">DJ2V</a></p>
 
-<p align="center">🌱 I’m currently learning <a href="https://syymfony.com" target="_blank">Symfony</a></p>
+<p align="center">🌱 I’m currently learning <a href="https://symfony.com" target="_blank">Symfony</a></p>
 
 <p align="center">📫 <a href="mailto:dev@lucaswarlop.com" target="_blank">dev@lucaswarlop.com</a></p>
 
